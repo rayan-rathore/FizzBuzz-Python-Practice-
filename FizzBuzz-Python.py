@@ -1,6 +1,6 @@
 range
 
-numbers= range(1,101)
+numbers= range(1,1001)
 Fizz = 0
 Buzz = 0
 FizzBuzz =0
@@ -18,4 +18,5 @@ for numbers in numbers:
         print(numbers)
 
 print(f"SCORE:\n🍎Fizz: {Fizz} times\n"
+
       f"🥤Buzz: {Buzz} times\n🍎🥤FizzBuzz: {FizzBuzz} times ")
