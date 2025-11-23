@@ -4,7 +4,7 @@ This is a fun and simple Python program where I customized the classic FizzBuzz 
 
 🔥 Features
 
-Prints numbers from 1 to 100
+Prints numbers from 1 to 1000
 
 Prints:
 
